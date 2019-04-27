@@ -1,0 +1,40 @@
+
+    header{
+        background: rgb(241, 78, 247);
+        
+      }
+
+    body {
+        background-color: rgb(250, 167, 188);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+        }
+
+    h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    p {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+     #texto{
+	    background-color: rgb(247, 152, 242);
+	    margin-left: 10%;
+	    margin-right: 10%;
+	    height: 100%;
+    }
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+    
+    footer {
+        position: relative;
+        bottom:0;
+        width:100%;
+        background-color: rgb(241, 78, 247);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+        
+      
